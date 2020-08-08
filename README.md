@@ -3,5 +3,5 @@ LabWorks of Algorithms and Complexity during 3rd year 2nd semester(Kathmandu Uni
 ## Language
 ###### JavaScript
 ## Lab1 
-###### 1. Linear Search
-###### 2. Binary Search
+1. Linear Search
+2. Binary Search
